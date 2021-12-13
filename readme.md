@@ -30,7 +30,7 @@ The lists of entitled wallets in the Age of Romulus NFT airdrop program can be f
 - [Amphora](https://github.com/fiatdao/airdrop-erc1155/blob/main/data/fiatdao_amphora_airdrop.json): [python script](https://colab.research.google.com/drive/13woncFVJ7KR29bLidRPMU-30QMp8v2GJ?usp=sharing)
 - [Kithara](https://github.com/fiatdao/airdrop-erc1155/blob/main/data/fiatdao_kithara_airdrop.json): [python script](https://colab.research.google.com/drive/1Ffl-YsrvK5ganMV4A7aIOm7y31838GG_?usp=sharing)
 - [Galea](https://github.com/fiatdao/airdrop-erc1155/blob/main/data/fiatdao_galea_airdrop.json): [python script](https://colab.research.google.com/drive/1HNu9r9tfAYKpJ7xLOJXMtbTEU8symVdV?usp=sharing)
-- Gladius: Not yet dropped
+- [Gladius](https://github.com/fiatdao/airdrop-erc1155/blob/main/data/fiatdao_gladius_airdrop.json): [python script](https://colab.research.google.com/drive/1rg4mjh1R6CuOcbgHteWaAuDd97AAmDGW?usp=sharing)
 - Corona: Not yet dropped
 
 
